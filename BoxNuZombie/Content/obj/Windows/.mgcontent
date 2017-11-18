@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/Bullet.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/Player1.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/Player2.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/ZombieGod1.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/ZombieGod2.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/ZombieKak.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/brian.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/charlotte.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/dancer.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/germany_nyo.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/grannyweatherwax.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/grantward.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/bullet1.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/bullet2.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/HealthBar.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/HealthBar1.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/HealthBar3.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/HealthBar4.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/HealthBarForZombie.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/Map8BitTest.jpg</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/Medicine.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/bullet3.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/Font.spritefont</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/ShotGun.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/Grenade.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/GrenadePut.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/explosion.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/GunPickUp.wav</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/Pistol.wav</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/ShotgunSound.wav</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/RestoringHealth.wav</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/ExplosionSound.wav</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/Punches.wav</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/ZombieSound.wav</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/Kai.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/LevelFont.spritefont</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/Map8BitTest2.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/MiniBoss1.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/firebolt2.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/effect1.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/FinalBoss.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/firebolt3.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/effect2.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/zombieKakmark.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/zombieKakmark1.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/zombieKakmark2.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/MiniBoss2.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/StageOne.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/StageThree.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/StageTwo.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/LevelUpSound.wav</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/playbtn.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/MainMenu.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/LastBossTest.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/Pause.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/Play.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/Quit.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/GameOver.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/Winner.png</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/Prontera2.mp3</File>
+    <File>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/Morroc.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>

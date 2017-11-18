@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/Prontera2.mp3</SourceFile>
+  <SourceTime>2016-12-21T01:25:50.156+07:00</SourceTime>
+  <DestFile>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/bin/Windows/Prontera2.xnb</DestFile>
+  <DestTime>2017-11-19T01:40:01.0090512+07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2016-03-30T13:36:08+07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2016-03-30T13:36:08+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Documents/Undergraduate/Sophomore/Advanced Computer Programming/MonoGame/Final Project/BoxNuZombie/BoxNuZombie/Content/bin/Windows/Prontera2.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
