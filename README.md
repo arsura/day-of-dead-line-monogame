@@ -1,6 +1,8 @@
 # Day of Dead(line) 
 
 Advanced Computer Programming Group Project - 2nd Year Semester 1, 2016.
+This game made with C# and MonoGame Framework.
+Let see gameplay video at [Youtube.](https://www.youtube.com/watch?v=gBdpLvnbzWE)
 
 ## Screenshot
 
